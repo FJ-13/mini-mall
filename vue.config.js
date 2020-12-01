@@ -16,10 +16,5 @@ module.exports={
                 // 因为我们在其他组件里可以用this.$store拿到store
             }
         }
-    },
-  devServer:{
-      host:'0.0.0.0',
-    hot:true,
-    disableHostCheck:true
-  }
+    }
 }
